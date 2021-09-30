@@ -1,1 +1,2 @@
-# ICSI333-Programming-at-the-Hardware-Software-Interface
+#ICSI 333 Coursework
+Repository for coursework completed in ICSI 333
